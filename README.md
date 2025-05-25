@@ -46,6 +46,6 @@ Consolidar meu aprendizado em Ciência de Dados e compartilhar minha evolução 
 
 **Greison Montenari**  
 Estudante de Ciência de Dados  
-[LinkedIn][(https://www.linkedin.com/in/greisonmontenari/) ](https://www.linkedin.com/feed/)
+[LinkedIn] [(https://www.linkedin.com/in/greisonmontenari/) ](https://www.linkedin.com/feed/)
 
 ---
